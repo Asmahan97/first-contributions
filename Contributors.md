@@ -15,7 +15,7 @@
 - [Vaibhav Chopra](https://github.com/Vaibhav-Chopra-GT)
 <<<<<<< Updated upstream
 =======
-- [Asmahan Mohamed] (https://github.com/Asmahan97)
+- [Asma Mohamed] (https://github.com/Asmahan97)
 >>>>>>> Stashed changes
 - [Royce Le](https://github.com/roycevanle)
 - [Nishad Kulkarni](https://github.com/Nishadk7)
